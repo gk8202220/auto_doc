@@ -1,0 +1,23 @@
+{
+    "algo":[
+        {
+            "name":"xxx",
+            "lib":"yyy.lib",
+            "tip":"zzz"
+        },
+        {
+            "name":"xxx",
+            "lib":"yyy.lib",
+            "tip":"zzz"
+        }
+    ],
+    "checklist":[
+        {
+            "content":"xxx"
+        },
+        {
+            "content":"xxx"
+        }
+    ]
+}
+

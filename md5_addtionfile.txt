@@ -1,0 +1,14 @@
+{
+    "addtionfile":[{
+        "type":"1",
+        "name":"",
+        "size":"",
+        "md5":""
+    },
+    {
+        "type":"2",
+        "name":"",
+        "size":"",
+        "md5":""
+    }]
+}
