@@ -212,7 +212,7 @@ def getOrderNumber():
 
 def getProductInfoContent():
     '''
-    获取到生产信息表格的内容
+    获取到生产信息表格的内容.
     :return: 生产信息表格的内容list
     '''
     list = []
